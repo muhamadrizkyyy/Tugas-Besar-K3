@@ -1775,7 +1775,6 @@ section,
 /* Hanya properti truncate - tidak mengubah style lain */
 .service-details .other-sop h5 a {
   display: -webkit-box;
-  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
